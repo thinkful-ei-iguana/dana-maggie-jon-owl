@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IndividualParticipant Component /> renders the UI as expected 1`] = `
+<div
+  className="session-participant"
+>
+  <img
+    className="user-avatar"
+  />
+  <div
+    className="participant-info"
+  >
+    <h6
+      className="participant-name"
+    />
+    <div
+      className="participant-status participant-status__grey"
+    >
+      in session
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Participant /> renders the UI as expected 1`] = `
+<div
+  className="session-participant"
+>
+  <img
+    className="user-avatar"
+  />
+  <div
+    className="participant-info"
+  >
+    <h6
+      className="participant-name"
+    />
+    <div
+      className="participant-status participant-status__grey"
+    >
+      in session
+    </div>
+  </div>
+</div>
+`;
